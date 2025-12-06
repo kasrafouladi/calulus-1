@@ -49,7 +49,9 @@ $$f(2x) = f(x) \cos x$$
 
 **سوال ۷.** مقادیر $a$ و $b$ را طوری تعیین کنید که تابع زیر در همه جا پیوسته و مشتق‌پذیر باشد:
 
-$$f(x) = \begin{cases} ax^2 + b & \text{اگر } x \leq 2 \\ bx^3 - a & \text{اگر } x > 2 \end{cases}$$
+$$f(x) = \begin{cases} ax^2 + b & \text{اگر } x \leq 2 
+
+bx^3 - a & \text{اگر } x > 2 \end{cases}$$
 
 ---
 
