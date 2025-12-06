@@ -12,7 +12,7 @@ $$\lim_{x \to 0} \frac{\ln(1 + \sqrt{x} + \sqrt[3]{x})}{\ln(1 + \sqrt[3]{x} + \s
 $$|a+\gamma|^2 + |a-\gamma|^2 = |b+\gamma|^2 + |b-\gamma|^2$$
 
 **۳.** هر یک از حدود زیر را محاسبه کنید:
-1) $$\lim_{x \to +\infty} \left( \sqrt[3]{(x+a_1)(x+a_2)\cdots(x+a_n)} - x \right)$$
+1) $$\lim_{x \to +\infty} \left( \sqrt[n]{(x+a_1)(x+a_2)\cdots(x+a_n)} - x \right)$$
 
 2) $$\lim_{x \to 0} \frac{1}{x^2} \left(\frac{1}{\sin x} - \frac{1}{x}\right)$$
 
