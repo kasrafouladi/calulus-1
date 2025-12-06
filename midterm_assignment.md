@@ -51,9 +51,9 @@ $$f(2x) = f(x) \cos x$$
 
 $$f(x) =$$
 
-$$ax^2 + b & \text{اگر } x \leq 2$$ 
+- $ax^2 + b \text{ if: }  x \leq 2$ 
 
-$$bx^3 - a & \text{اگر } x > 2$$
+- $bx^3 - a \text{ if: }  x > 2$
 
 ---
 
